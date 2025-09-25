@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-TOKEN = "TELEGRAM_BOT_TOKEN"  # o'z tokeningni shu yerga qo'y
+TOKEN = "8301819149:AAHUnWD4-VSU4rGfI1z7_1PdFR3XUlCQ8Fk"  # o'z tokeningni shu yerga qo'y
 
 URL = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 
